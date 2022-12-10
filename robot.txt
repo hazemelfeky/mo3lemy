@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: http://www.mo3lemy.online/sitemap.xml
